@@ -1,16 +1,16 @@
-### Hi there 👋
+<div align="center">
+    <h1> Hey there! Welcome to my GitHub profile!</h1>
+</div>
 
-<!--
-**joaoslva/joaoslva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## About me
+- My name is João, and I'm student from Porto, Portugal :mortar_board:.
+- I'm currently enrolled in the 3rd and last year of the Informatics and Computer Engineering BSc at [FEUP](https://sigarra.up.pt/feup/en/web_page.Inicial) :computer:.
+- My main interests are in areas like Software Engineering, Web Development, IoT, AI and, above all, the love for the creative process of building something from scratch :bulb:.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Academic Projects
+| Project's name | Curricular Unit | Description | Technologies | Grade |
+| -------------- | ----------------| ----------- | ------------ | ----- |
+
+
